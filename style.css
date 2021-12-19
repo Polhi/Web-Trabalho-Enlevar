@@ -1,4 +1,4 @@
-body{background-image: url("imagens/Fundo do Site.png"); background-repeat:no-repeat; background-attachment: fixed; background-size: cover;
+body{background-image: url("fundo.png"); background-repeat:no-repeat; background-attachment: fixed; background-size: cover;
 height: auto}
 
 .menu ul {padding: 0px ; margin-left: auto; margin-right: auto; list-style: none; width:400px} 
